@@ -1,0 +1,20 @@
+.books-page{
+  width: 80%;
+  margin: auto;
+}
+
+.book{
+  margin-bottom: 10px !important;
+  text-align: left;
+  min-width: 500px
+}
+
+.editor-page{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.search-input{
+  margin: 10px 0;
+}
